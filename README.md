@@ -19,3 +19,4 @@ User-Friendly Interface: BAD BAT features an intuitive command-line interface wi
 Educational Tool: Learn about ARP spoofing techniques, their implications, and mitigation strategies by experimenting in a controlled environment.
 
 
+![image](https://github.com/Greejith-k/ARP_SPOOFER/assets/109193983/67cb5241-6c07-4f48-a0a3-fd06b5fd6ef8)
